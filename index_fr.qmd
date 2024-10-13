@@ -1,0 +1,23 @@
+---
+title: |
+  Sur le chemin de l'enf-R
+
+#include-in-header:
+#  text: |
+#    <meta http-equiv="refresh" content="0; URL=./en/index.html">
+#    <link rel="canonical" href="./en/index.html">
+format:
+  html:
+    toc: false
+    embed-resources: true
+---
+<style>
+.quarto-title-block .quarto-title{
+  text-align: center;
+}
+</style>
+
+[![](images/hex/Rway_logo_hex_fr.png){fig-align=center}](https://biostats-uottawa.github.io/enfR/)
+
+
+Le manuel de laboratoire pour Bio4558 a été intégré au livre "Sur le chemin de l'enf-R". Cliquez sur l'image pour aller sur le nouveau site ou utilisez le lien <https://biostats-uottawa.github.io/enfR/>
